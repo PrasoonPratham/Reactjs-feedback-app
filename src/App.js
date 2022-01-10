@@ -1,7 +1,6 @@
 function App() {
-    return(
+    return (
     <div className="container">
-
     </div> 
     );
 }
