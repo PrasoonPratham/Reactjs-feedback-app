@@ -3,8 +3,9 @@ import { FaTimes } from 'react-icons/fa'
 
 function FeedbackItem({ item }) {
 
-    const handleClick = () => { 
-        console.log('123')
+    const handleClick = (id) => { 
+        console.log(id)
+        
     }
 
     return (
